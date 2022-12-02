@@ -1,0 +1,24 @@
+{
+  "name": "snow-notify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyphen7/snow-notify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyphen7/snow-notify/issues"
+  },
+  "homepage": "https://github.com/hyphen7/snow-notify#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
